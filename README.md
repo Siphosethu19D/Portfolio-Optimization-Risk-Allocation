@@ -23,3 +23,13 @@ The seventh section implements the CMMV portfolio strategy. This is the multi-pe
 After the three strategies are completed, transaction costs are applied to all strategies. The final sections evaluate performance using Sharpe ratios and other summary measures. The project also reproduces selected important results from the paper, such as the Sharpe Ratio comparison table.
 
 To run the project successfully, make sure the CSV files remain inside the data folder, install all required packages, and run the code one chunk at a time in order. Gurobi must also be installed and properly licensed before running the optimisation sections.
+
+Final Requirements List:
+- Python 3.8+
+- [Gurobi](https://www.gurobi.com/) with a valid license (academic licenses available)
+- Python packages:
+  - `numpy`
+  - `pandas`
+  - `matplotlib`
+  - `gurobipy`
+  - `yfinance` (optional, for data download fallback)
