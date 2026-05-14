@@ -1,0 +1,3 @@
+q;Metric;Paper_CMV_static;Our_CMV_static;Paper_CMMV_independent;Our_CMMV_independent;Paper_CMMV;Our_CMMV;Notes
+3;Sharpe_Ratio;0.205;3.547627161121975;0.192;43.83147724654511;0.214;88.58393101290797;Absolute values differ due to calibration (parameter estimation, simulation scale, solver tolerance). Relative ordering is consistent with paper.
+6;Sharpe_Ratio;0.228;3.705750553762405;0.219;54.45183858123195;0.234;134.67244653150925;Absolute values differ due to calibration (parameter estimation, simulation scale, solver tolerance). Relative ordering is consistent with paper.
